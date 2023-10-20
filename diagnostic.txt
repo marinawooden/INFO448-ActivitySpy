@@ -1,0 +1,17 @@
+2023-10-19 20:14:25.644 10506-10506 INFO                    edu.uw.ischool.mwoode.activityspy    I  onCreate event fired
+2023-10-19 20:14:25.831 10506-10506 INFO                    edu.uw.ischool.mwoode.activityspy    I  onStart event fired
+2023-10-19 20:14:25.834 10506-10506 INFO                    edu.uw.ischool.mwoode.activityspy    I  onResume event fired
+2023-10-19 20:19:53.727 10808-10808 INFO                    edu.uw.ischool.mwoode.activityspy    I  onCreate event fired
+2023-10-19 20:19:54.476 10808-10808 INFO                    edu.uw.ischool.mwoode.activityspy    I  onStart event fired
+2023-10-19 20:19:54.481 10808-10808 INFO                    edu.uw.ischool.mwoode.activityspy    I  onResume event fired
+2023-10-19 20:25:44.657 10971-10971 INFO                    edu.uw.ischool.mwoode.activityspy    I  onCreate event fired
+2023-10-19 20:25:45.433 10971-10971 INFO                    edu.uw.ischool.mwoode.activityspy    I  onStart event fired
+2023-10-19 20:25:45.444 10971-10971 INFO                    edu.uw.ischool.mwoode.activityspy    I  onResume event fired
+2023-10-19 20:26:08.349 10971-10971 INFO                    edu.uw.ischool.mwoode.activityspy    I  onPause event fired
+2023-10-19 20:26:08.884 10971-10971 INFO                    edu.uw.ischool.mwoode.activityspy    I  onStop event fired
+2023-10-19 20:27:07.792 11054-11054 INFO                    edu.uw.ischool.mwoode.activityspy    I  onCreate event fired
+2023-10-19 20:27:08.321 11054-11054 INFO                    edu.uw.ischool.mwoode.activityspy    I  onStart event fired
+2023-10-19 20:27:08.332 11054-11054 INFO                    edu.uw.ischool.mwoode.activityspy    I  onResume event fired
+2023-10-19 20:28:20.212 11054-11054 INFO                    edu.uw.ischool.mwoode.activityspy    I  onPause event fired
+2023-10-19 20:28:21.265 11054-11054 INFO                    edu.uw.ischool.mwoode.activityspy    I  onStop event fired
+---------------------------- PROCESS ENDED (11054) for package edu.uw.ischool.mwoode.activityspy ----------------------------
